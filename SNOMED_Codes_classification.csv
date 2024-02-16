@@ -1,0 +1,73 @@
+﻿Dx;SNOMED CT Code;Abbreviation
+1st degree av block;270492004;IAVB
+atrial fibrillation;164889003;AF
+atrial flutter;164890007;AFL
+bradycardia;426627000;Brady
+complete right bundle branch block;713427006;CRBBB
+incomplete right bundle branch block;713426002;IRBBB
+left anterior fascicular block;445118002;LAnFB
+left axis deviation;39732003;LAD
+left bundle branch block;164909002;LBBB
+low qrs voltages;251146004;LQRSV
+nonspecific intraventricular conduction disorder;698252002;NSIVCB
+pacing rhythm;10370003;PR
+premature atrial contraction;284470004;PAC
+premature ventricular contractions;427172004;PVC
+prolonged pr interval;164947007;LPR
+prolonged qt interval;111975006;LQT
+qwave abnormal;164917005;QAb
+right axis deviation;47665007;RAD
+right bundle branch block;59118001;RBBB
+sinus arrhythmia;427393009;SA
+sinus bradycardia;426177001;SB
+sinus rhythm;426783006;SNR
+sinus tachycardia;427084000;STach
+supraventricular premature beats;63593006;SVPB
+t wave abnormal;164934002;TAb
+t wave inversion;59931005;TInv
+ventricular premature beats;17338001;VPB
+2nd degree av block;195042002;IIAVB
+acute myocardial infarction;57054005;AMI
+acute myocardial ischemia;413444003;AMIs
+anterior ischemia;426434006;AnMIs
+anterior myocardial infarction;54329005;AnMI
+atrial fibrillation and flutter;195080001;AFAFL
+atrial tachycardia;713422000;ATach
+atrioventricular junctional rhythm;29320008;AVJR
+av block;233917008;AVB
+brady tachy syndrome;74615001;BTS
+bundle branch block;6374002;BBB
+cardiac dysrhythmia;698247007;CD
+chronic atrial fibrillation;426749004;CAF
+chronic myocardial ischemia;413844008;CMI
+complete heart block;27885002;CHB
+congenital incomplete atrioventricular heart block;204384007;CIAHB
+diffuse intraventricular block;82226007;DIB
+heart failure;84114007;HF
+heart valve disorder;368009;HVD
+incomplete left bundle branch block;251120003;ILBBB
+inferior ischaemia;425419005;IIs
+junctional escape;426995002;JE
+junctional tachycardia;426648003;JTach
+lateral ischaemia;425623009;LIs
+left posterior fascicular block;445211001;LPFB
+mobitz type i wenckebach atrioventricular block;54016002;MoI
+myocardial infarction;164865005;MI
+myocardial ischemia;164861001;MIs
+paroxysmal atrial fibrillation;282825002;PAF
+paroxysmal supraventricular tachycardia;67198005;PSVT
+paroxysmal ventricular tachycardia;425856008;PVT
+rapid atrial fibrillation;314208002;RAF
+sinoatrial block;65778007;SAB
+sinus node dysfunction;60423000;SND
+st elevation;164931005;STE
+supraventricular tachycardia;426761007;SVT
+transient ischemic attack;266257000;TIA
+ventricular fibrillation;164896001;VF
+ventricular flutter;111288001;VFL
+ventricular tachycardia;164895002;VTach
+wolff parkinson white pattern;74390002;WPW
+Brugada Syndrom;1204168008;Brug
+shortened pr interval;49578007;SPRI
+left ventricular hypertrophy;164873001;LVH
+decreased qt interval;77867006;SQT
